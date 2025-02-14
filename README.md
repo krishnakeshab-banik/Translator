@@ -69,6 +69,10 @@ To use the Translator:
 3. **View the Translation:**
    - The translated text will be displayed on the screen.
 
+## Screenshot
+
+![translator_img](https://github.com/user-attachments/assets/292c9517-53a9-4b6d-97b4-85339bcf293b)
+
 ### Example
 
 - **Input:** "Hello, how are you?" (source: English, target: Spanish)
